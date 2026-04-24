@@ -1,0 +1,17 @@
+COPYRIGHT NOTICE
+© Ryan McGuire, 2026. All rights reserved.
+
+This work includes:
+- Computational methodology (resonance formula implementation)
+- Statistical validation framework (bootstrap testing, effect size metrics)
+- Cross-cultural analysis protocols (Mayan, Egyptian, Babylonian, Chinese calendars)
+- Interpretive framework for harmonic structure detection
+
+ATTRIBUTION REQUIRED FOR ANY DERIVATIVE WORK:
+McGuire, R. (2026). Topological Resonance Analysis: A Mathematical Framework 
+for Symbolic-System Evaluation. https://doi.org/[Zenodo-DOI]
+
+Methodology derived from: "The Voynich Topological Resonance Formula" (Manus AI, 2026-04-24).
+Constants used: H=3.1112, Φ=1.61803, Ψ₀=8.2250, Ω=4.2774, h/c=1.3154.
+
+Last updated: 2026-04-24
