@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this methodology, data, or interpretation, please cite as:"
+
+title: "Topological Resonance Analysis: A Mathematical Framework for Symbolic-System Evaluation"
+abstract: |
+  A reproducible computational method for evaluating harmonic structure in symbolic systems,
+  derived from the Voynich Topological Resonance Formula (Manus AI, 2026-04-24).
+  Validates methodology on ancient calendrical systems; reports null result for Voynich Manuscript.
+
+authors:
+  - family-names: "McGuire"
+    given-names: "Ryan"
+    affiliation: "Independent Research"
+
+version: 1.0.0
+date-released: 2026-04-24
+license: MIT
+keywords:
+  - Voynich Manuscript
+  - topological resonance
+  - symbolic systems analysis
+  - ancient calendars
+  - mathematical humanities
+  - reproducible research
+
+references:
+  - type: report
+    title: "The Voynich Topological Resonance Formula"
+    authors:
+      - name: "Manus AI"
+    year: 2026
+    month: 4
+    day: 24
